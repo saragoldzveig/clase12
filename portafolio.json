@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "La transformación del papel",
+        "fotos": ["https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal011.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal012.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal013.jpg"],
+        "soporte": "editorial",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "Entre líneas",
+        "fotos": ["https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal022.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal021.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal023.jpg"],
+        "soporte": "editorial",
+        "abstract": "Sed feugiat laoreet tellus quis ullamcorper",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "La forma del lenguaje",
+        "fotos": ["https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal033.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal031.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal032.jpg"],
+        "soporte": "editorial",
+        "abstract": "Consectetur adipiscing elit, sed feugiat laoreet tellus",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "Grabados en metal",
+        "fotos": ["https://picsum.photos/id/39/500/310", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal041.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal042.jpg"],
+        "soporte": "gráfico",
+        "abstract": "Nunc efficitur commodo risus, at sagittis dui accumsan",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "Afiche obra de teatro",
+        "fotos": ["https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal051.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal052.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal053.jpg"],
+        "soporte": "editorial",
+        "abstract": "Donec risus neque, efficitur in sollicitudin vestibulum",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "Agüita pa la guatita",
+        "fotos": ["https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal061.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal062.jpg", "https://raw.githubusercontent.com/saragoldzveig/clase12/main/FotosPortafolio/modal063.jpg"],
+        "soporte": "ilustración",
+        "abstract": "Suspendisse dui nulla, facilisis lobortis tortor",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "Descomphongo",
+        "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
+        "soporte": "ilustración",
+        "abstract": "Nam nec eros fringilla, ultrices velit in, dapibus",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    },
+    {
+        "nombre": "Errado",
+        "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
+        "soporte": "editorial",
+        "abstract": "Donec convallis justo nulla, et ultrices sem fringilla",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+    }
+
+]
